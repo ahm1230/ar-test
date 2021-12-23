@@ -1,2 +1,2 @@
 # ar-test
-#this only for testing
+#this for collect money
